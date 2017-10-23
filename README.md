@@ -11,3 +11,6 @@ UITableViewのDataSourceをRx化したサンプルソース
 ## サンプルソース動作
 簡単にVM - DataSource構造でデータ反映・リセットする
 
+![dataSource](https://github.com/Noodlekim/RxDataSourceSample/blob/master/gif/DataSource.gif)
+
+
